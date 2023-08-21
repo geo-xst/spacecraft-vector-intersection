@@ -5,6 +5,10 @@ The package uses a 3D model of a spacecraft and:
 
 Currently it is only for MATLAB - we are working on translating it for Python
 
+Citing this work:
+This work will be submitted for publication
+
+
 Notes:
 -------------
 - Some examples are provided
