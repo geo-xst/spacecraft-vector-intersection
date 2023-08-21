@@ -1,0 +1,5 @@
+Everything in this folder and subfolders are from 
+https://solarsystem.nasa.gov/resources/2401/cassini-3d-model/ (Accessed: 19 August 2023)
+
+Model source: NASA Visualization Technology Applications and Development (VTAD)
+Published: 22 April 2019
