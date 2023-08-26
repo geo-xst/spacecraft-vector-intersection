@@ -44,7 +44,6 @@ if ~strcmp(model_path(end-3:end),'.obj') && ~strcmp(model_path(end-3:end),'.stl'
 end
 
 
-
 % -----------------
 % MAIN SCRIPT:
 % -----------------

@@ -33,7 +33,7 @@
 % Credits: George Xystouris
 %          Oleg Shebanits
 %          Chris Arridge
-% (this work is submitted for publishing)
+% (this work is submitted for publication)
 % ------------------------------------
 % v1
 
