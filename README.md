@@ -56,9 +56,9 @@ Xystouris G., Shebanits O., Arridge C.S. (2023) "Spacecraft-Vector Intersection 
 Or use this BibTeX entry:
 
 `@misc{svi,
-  title = {Spacecraft-Vector Intersection (SVI)},
-  author = {{Xystouris}, G., {Shebanits}, O., {Arridge}, C.S.},
-  note = {https://github.com/geo-xst/Spacecraft_Vector_Intersection},
+  title = {Spacecraft-Vector Intersection (SVI)},   
+  author = {{Xystouris}, G., {Shebanits}, O., {Arridge}, C.S.},   
+  note = {https://github.com/geo-xst/Spacecraft_Vector_Intersection},   
   year = {2023}}`
 
 
