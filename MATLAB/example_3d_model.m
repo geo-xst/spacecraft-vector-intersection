@@ -1,6 +1,6 @@
 %
 %   Build a model of a spacecraft, and plot it showing the normal of each
-%   face
+%   face.
 %
 %   INPUT: model .obj or .stl file
 %
