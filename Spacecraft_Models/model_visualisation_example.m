@@ -39,9 +39,9 @@ end
 
 % CREATE THE MODEL (face, vertices, and normals)
 % ----------------------------------
-if strcmp(model_path(end-3:end),'.obj') 
+if strcmp(model_path(end-3:end),'.obj')
     [sc_model.v, sc_model.f] = readOBJ(model_path);
-else, strcmp(model_path(end-3:end),'.stl')
+else, strcmp(model_path(end-3:end),'.stl');
     [sc_model.f, sc_model.v]  = stlread(model_path);
 end    
 
