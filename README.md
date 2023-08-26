@@ -1,6 +1,6 @@
 # Spacecraft-Vector Intersection (SVI)
 
-This is a package that can accept any spacecraft 3D model and:
+This is a package that can take any spacecraft 3D model in .stl or .obj and:
 1) calculate the field-of-view of an instrument
 2) determine whether a vector intersects any part of the spacecraft
 3) plot (visualise) the 3D model
