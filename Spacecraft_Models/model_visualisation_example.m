@@ -4,11 +4,15 @@
 %   The model can either be an official one (e.g. the given Cassini model)
 %   or a custom-built one.
 %
-%   INPUT: a 3D model                                       [.obj or .stl]
+%   INPUT: 
+%     model path: a character array with the path of the spacecraft model 
+%        including the extension                            [.obj or .stl]
+%        e.g. 'C:\Users\Darth_Vader\Documents\Cassini_3D_model_example\Cassini_NASA_model.obj'
 %
-%   OUTPUT: a structure containing
+%   OUTPUT: 
+%     sc_model structure:
 %       .v: n x 3 array containing three coordinates for each vertex.
-%       .f: m x 3 array containing four indices of the polgon vertices.
+%       .f: m x 3 array containing three indices of the triangle vertices.
 %       .n: n x 3 array containing the normal vector for each vertex.
 %       .c: n x 3 array containing the centroid of each polygon.
 %   
