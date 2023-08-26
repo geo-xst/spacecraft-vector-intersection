@@ -58,7 +58,7 @@ Or use this BibTeX entry:
 > @misc{svi,\
 > title = {Spacecraft-Vector Intersection (SVI)},\
 > author = {{Xystouris}, G., {Shebanits}, O., {Arridge}, C.S.},\
-> note = {https://github.com/geo-xst/Spacecraft_Vector_Intersection},\
+> note = {https://github.com/geo-xst/Spacecraft_Vector_Intersection}, \
 > year = {2023}}
 
 
