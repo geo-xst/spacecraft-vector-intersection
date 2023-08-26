@@ -54,12 +54,17 @@ If you use this work in an academic project, please cite it as follows:
 Xystouris G., Shebanits O., Arridge C.S. (2023) "Spacecraft-Vector Intersection (SVI)"
 
 Or use this BibTeX entry:
+
 @misc{svi,
+
   title = {Spacecraft-Vector Intersection (SVI)},
+  
   author = {{Xystouris}, G., {Shebanits}, O., {Arridge}, C.S.},
+  
   note = {https://github.com/geo-xst/Spacecraft_Vector_Intersection},
-  year = {2023},
-}
+  
+  year = {2023}}
+
 
 License
 ------------------------------
