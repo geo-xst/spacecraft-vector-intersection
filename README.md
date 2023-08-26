@@ -21,11 +21,11 @@ This code uses solely MATLAB function files (.m extension). The user needs to ha
 
 `addpath(genpath('C:\Users\Darth_Vader\MATLAB_packages\Spacecraft_Vector_Intersection\'))`
 
-The `genpath` adds to the path the folder 'Spacecraft_Vector_Intersection' all its subfolders/
+The `genpath` adds to the path the folder 'Spacecraft_Vector_Intersection' all its subfolders.
 
 
 ### Dependencies
-The user needs to download and install (if required) the following packages, containing the required functions for the script:
+The user needs to download and install the following packages, containing the required functions for the script:
 1) for the stlread.m: "STL File Reader". Available at: https://www.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader
 2) for the readOBJ.m: "gptoolbox: Geometry Processing Toolbox". Available at: https://github.com/alecjacobson/gptoolbox/
 
