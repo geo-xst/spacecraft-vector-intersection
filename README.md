@@ -1,4 +1,4 @@
-# spacecraft_vector_instersection
+# spacecraft_vector_intersection
 This is a package that can accept any spacecraft 3D model and:
 1) calculate the field-of-view of an instrument
 2) determine whether a vector intersects any part of the spacecraft
