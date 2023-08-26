@@ -31,7 +31,7 @@
 % ------------------------------------
 % v1
 
-function fov = instr_field_of_view(instr_x, instr_y, instr_z, model_path)
+function fov = svi_instr_field_of_view(instr_x, instr_y, instr_z, model_path)
 
 % -----------------
 % CHECKS:

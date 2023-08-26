@@ -37,7 +37,7 @@
 % ------------------------------------
 % v1
 
-function [index, vec_phi, vec_theta ] = instr_sc_vector_intersection(instr_x, instr_y, instr_z, vector_matrix, model_path)
+function [index, vec_phi, vec_theta ] = svi_instr_sc_vector_intersection(instr_x, instr_y, instr_z, vector_matrix, model_path)
 
 % Check that file is in a valid file name (.obj or .stl). If it's not, the script stops.
 if ~strcmp(model_path(end-3:end),'.obj') && ~strcmp(model_path(end-3:end),'.stl')

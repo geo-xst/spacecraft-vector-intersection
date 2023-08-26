@@ -1,8 +1,10 @@
 %
-%   Build a model of a spacecraft, and plot it showing the normal of each
-%   face.
+%   This script retrieves the faces and vertices of a 3D model, calculates 
+%   the normal of each face, and plots the model (in 3D) with the normals.
+%   The model can either be an official one (e.g. the given Cassini model)
+%   or a custom-built one.
 %
-%   INPUT: model .obj or .stl file
+%   INPUT: a 3D model                                       [.obj or .stl]
 %
 %   OUTPUT: a structure containing
 %       .v: n x 3 array containing three coordinates for each vertex.
@@ -22,7 +24,7 @@
 % v1
 % 
 
-function sc_model = example_3d_model(model_path)
+function sc_model = model_visualisation_example(model_path)
 
 % Check that file is in a valid file name (.obj or .stl). If it's not, the script stops.
 if ~strcmp(model_path(end-3:end),'.obj') && ~strcmp(model_path(end-3:end),'.stl')
@@ -41,6 +43,7 @@ end
 
 
 % Compute normal and centroid of each face
+% We are computing the centroid in order to draw the normal on it
 faces_num = size(sc_model.f,1); % number of faces
 
 normal = zeros(faces_num,3);
