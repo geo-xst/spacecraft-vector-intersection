@@ -1,5 +1,5 @@
 # Blender MTL File: 'None'
-# Material Count: 10
+# Material Count: 9
 
 newmtl Material_*
 Ns 225.000000
@@ -12,7 +12,7 @@ d 1.000000
 illum 2
 map_Kd C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-7jlrrajx\\cassini_dish_AO.jpg.png
 
-newmtl Vents
+newmtl Vents.001
 Ns 440.999985
 Ka 1.000000 1.000000 1.000000
 Kd 0.964686 0.964686 0.964686
@@ -22,7 +22,7 @@ Ni 1.450000
 d 1.000000
 illum 3
 
-newmtl aluminum
+newmtl aluminum.001
 Ns 440.999985
 Ka 1.000000 1.000000 1.000000
 Kd 0.964686 0.964686 0.964686
@@ -32,7 +32,7 @@ Ni 1.450000
 d 1.000000
 illum 3
 
-newmtl black_krinkle
+newmtl black_krinkle.001
 Ns 143.999983
 Ka 1.000000 1.000000 1.000000
 Kd 0.006571 0.006571 0.006571
@@ -43,7 +43,7 @@ d 1.000000
 illum 2
 map_Bump -bm 2.000000 C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-0ux5r3d2\\foil_n.jpg.png
 
-newmtl dish_AO
+newmtl dish_AO.001
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -54,7 +54,7 @@ d 1.000000
 illum 2
 map_Kd C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-mo5jcgir\\cassini_dish_AO.jpg.png
 
-newmtl foil_gold
+newmtl foil_gold.001
 Ns 440.999985
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 0.658375 0.082283
@@ -65,7 +65,7 @@ d 1.000000
 illum 3
 map_Bump -bm 2.000000 C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-r_f2o4y3\\foil_n.jpg.png
 
-newmtl foil_gold_2
+newmtl foil_gold_2.001
 Ns 440.999985
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 0.658375 0.082283
@@ -76,7 +76,7 @@ d 1.000000
 illum 3
 map_Bump -bm 2.000000 C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-n6d04gow\\cassini_foil_n_2.jpg.png
 
-newmtl plastic_dark
+newmtl plastic_dark.001
 Ns 575.999996
 Ka 1.000000 1.000000 1.000000
 Kd 0.026453 0.026453 0.026453
@@ -86,7 +86,7 @@ Ni 1.450000
 d 1.000000
 illum 2
 
-newmtl tex_01
+newmtl tex_01.001
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -96,15 +96,3 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-a8dgrmjl\\cassini_tex_01.jpg.png
-
-newmtl transparent
-Ns 225.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-h7supj7v\\clear.png.001.png
-map_d C:\\Users\\xystouri\\AppData\\Local\\Temp\\gltfimg-h7supj7v\\clear.png.001.png
