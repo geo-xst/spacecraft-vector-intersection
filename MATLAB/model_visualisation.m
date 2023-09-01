@@ -28,7 +28,7 @@
 % v1
 % 
 
-function sc_model = model_visualisation_example(model_path)
+function sc_model = model_visualisation(model_path)
 
 % Check that file is in a valid file name (.obj or .stl). If it's not, the script stops.
 if ~strcmp(model_path(end-3:end),'.obj') && ~strcmp(model_path(end-3:end),'.stl')
@@ -47,7 +47,7 @@ end
 
 
 % Compute normal and centroid of each face
-% We are computing the centroid in order to draw the normal on it
+% Each centroid is computed in order to draw the corresponding normal on it
 faces_num = size(sc_model.f,1); % number of faces
 
 normal = zeros(faces_num,3);
