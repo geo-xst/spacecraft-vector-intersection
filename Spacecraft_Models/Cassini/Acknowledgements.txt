@@ -1,5 +1,17 @@
-Everything in this folder and subfolders are from 
+The original models are from
 https://solarsystem.nasa.gov/resources/2401/cassini-3d-model/ (Accessed: 19 August 2023)
 
+Modifications:
+--------------
+The origin of the .obj model origin has been modified to match the origin as was described in Cassini's technical papers (e.g. Matson et al., 2003, doi:10.1023/A:1023609211620): The mag boom is aligned with the +Y-axis, the high-gain antenna (HGA) is aligned with the −Z-axis -- therefore the thrusters are towards the +Z-axis, and the X-axis is completing the orthogonal system.
+
+
+Acknowledgements:
+-----------------
 Model source: NASA Visualization Technology Applications and Development (VTAD)
 Published: 22 April 2019
+
+
+NASA Media Usage Guidelines: Still Images, Audio Recordings, Video, and Related Computer Files for Non-Commercial Use:
+"NASA content - images, audio, video, and computer files used in the rendition of 3-dimensional models, such as texture maps and polygon data in any format - generally are not subject to copyright in the United States. You may use this material for educational or informational purposes, including photo collections, textbooks, public exhibits, computer graphical simulations and Internet Web pages. This general permission extends to personal Web pages."
+(source: https://www.nasa.gov/multimedia/guidelines/index.html ; Accessed: 01 Sept. 2023)
