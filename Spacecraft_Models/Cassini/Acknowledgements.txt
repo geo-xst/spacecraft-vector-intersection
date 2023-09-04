@@ -1,4 +1,4 @@
-The original models are from
+The original model was retrieved from
 https://solarsystem.nasa.gov/resources/2401/cassini-3d-model/ (Accessed: 19 August 2023)
 
 Modifications:
@@ -12,6 +12,8 @@ Model source: NASA Visualization Technology Applications and Development (VTAD)
 Published: 22 April 2019
 
 
-NASA Media Usage Guidelines: Still Images, Audio Recordings, Video, and Related Computer Files for Non-Commercial Use:
+NASA Media Usage Guidelines
+---------------------------
+Still Images, Audio Recordings, Video, and Related Computer Files for Non-Commercial Use:
 "NASA content - images, audio, video, and computer files used in the rendition of 3-dimensional models, such as texture maps and polygon data in any format - generally are not subject to copyright in the United States. You may use this material for educational or informational purposes, including photo collections, textbooks, public exhibits, computer graphical simulations and Internet Web pages. This general permission extends to personal Web pages."
 (source: https://www.nasa.gov/multimedia/guidelines/index.html ; Accessed: 01 Sept. 2023)
