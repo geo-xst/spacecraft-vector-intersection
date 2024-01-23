@@ -8,6 +8,8 @@
 %     model path: a character array with the path of the spacecraft model 
 %        including the extension                            [.obj or .stl]
 %        e.g. 'C:\Users\Darth_Vader\Documents\Cassini_3D_model_example\Cassini_NASA_model.obj'
+%     normals: flag whether to plot the normals of the model [char - case insensitive]
+%        'normals' or 'on' will plot the normals
 %
 %   OUTPUT: 
 %     sc_model structure:
@@ -26,9 +28,9 @@
 %
 % ----------------------------------------------------
 % v1
-% 
+% v1.1 - added option for showing normals or not
 
-function sc_model = model_visualisation(model_path)
+function sc_model = model_visualisation(model_path, normals)
 
 % Check that file is in a valid file name (.obj or .stl). If it's not, the script stops.
 if ~strcmp(model_path(end-3:end),'.obj') && ~strcmp(model_path(end-3:end),'.stl')
@@ -79,9 +81,10 @@ patch('Faces',sc_model.f,'Vertices',sc_model.v,'FaceColor',[0.95 0.69 0.06],'Edg
 hold on;
 xlabel('X'); ylabel('Y'); zlabel('Z');
 axis equal; view(90,180);
-% add the normalised vectors on each face
-quiver3(sc_model.c(:,1), sc_model.c(:,2), sc_model.c(:,3), sc_model.n(:,1), sc_model.n(:,2), sc_model.n(:,3), 'r')
-    
+if strcmpi(normals,'normals') | strcmpi(normals,'on')
+    % add the normalised vectors on each face
+    quiver3(sc_model.c(:,1), sc_model.c(:,2), sc_model.c(:,3), sc_model.n(:,1), sc_model.n(:,2), sc_model.n(:,3), 'r')
+end
 
 end
 
