@@ -67,7 +67,7 @@ Or use this BibTeX entry:
     issn = {2752-8200},
     doi = {10.1093/rasti/rzae012},
     url = {https://doi.org/10.1093/rasti/rzae012},
-    eprint = {https://academic.oup.com/rasti/advance-article-pdf/doi/10.1093/rasti/rzae012/57076059/rzae012.pdf},}
+    eprint = {https://academic.oup.com/rasti/advance-article-pdf/doi/10.1093/rasti/rzae012/57076059/rzae012.pdf}}
 ```
 
 License
