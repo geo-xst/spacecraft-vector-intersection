@@ -56,6 +56,7 @@ If you use this work in an academic project, please cite it as follows:
 Georgios Xystouris, Oleg Shebanits, Christopher S Arridge, "A simple spacecraft – vector intersection methodology and applications", RAS Techniques and Instruments (2024). doi:10.1093/rasti/rzae012
 
 Or use this BibTeX entry:
+```
 @article{10.1093/rasti/rzae012,
     author = {Xystouris, Georgios and Shebanits, Oleg and Arridge, Christopher S},
     title = "{A simple spacecraft – vector intersection methodology and applications}",
@@ -67,7 +68,7 @@ Or use this BibTeX entry:
     doi = {10.1093/rasti/rzae012},
     url = {https://doi.org/10.1093/rasti/rzae012},
     eprint = {https://academic.oup.com/rasti/advance-article-pdf/doi/10.1093/rasti/rzae012/57076059/rzae012.pdf},}
-
+```
 
 License
 ------------------------------
