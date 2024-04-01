@@ -49,17 +49,24 @@ Available at: https://github.com/alecjacobson/gptoolbox/ (Accessed: 19 August 20
 
 Attribution
 ---------------------
+This work is published in RAS Techniques and Instruments.
+
 If you use this work in an academic project, please cite it as follows: 
 
-Xystouris G., Shebanits O., Arridge C.S. (2023) "Spacecraft-Vector Intersection (SVI)"
+Georgios Xystouris, Oleg Shebanits, Christopher S Arridge, "A simple spacecraft – vector intersection methodology and applications", RAS Techniques and Instruments (2024). doi:10.1093/rasti/rzae012
 
 Or use this BibTeX entry:
-
-> @misc{svi,\
-> title = {Spacecraft-Vector Intersection (SVI)},\
-> author = {{Xystouris}, G., {Shebanits}, O., {Arridge}, C.S.},\
-> note = {https://github.com/geo-xst/Spacecraft_Vector_Intersection}, \
-> year = {2023}}
+@article{10.1093/rasti/rzae012,
+    author = {Xystouris, Georgios and Shebanits, Oleg and Arridge, Christopher S},
+    title = "{A simple spacecraft – vector intersection methodology and applications}",
+    journal = {RAS Techniques and Instruments},
+    pages = {rzae012},
+    year = {2024},
+    month = {03},
+    issn = {2752-8200},
+    doi = {10.1093/rasti/rzae012},
+    url = {https://doi.org/10.1093/rasti/rzae012},
+    eprint = {https://academic.oup.com/rasti/advance-article-pdf/doi/10.1093/rasti/rzae012/57076059/rzae012.pdf},}
 
 
 License
