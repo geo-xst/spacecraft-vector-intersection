@@ -49,11 +49,11 @@ Available at: https://github.com/alecjacobson/gptoolbox/ (Accessed: 19 August 20
 
 Attribution
 ---------------------
-This work is published in RAS Techniques and Instruments.
+This work is open access, published in RAS Techniques and Instruments.
 
 If you use this work in an academic project, please cite it as follows: 
 
-Georgios Xystouris, Oleg Shebanits, Christopher S Arridge, "A simple spacecraft – vector intersection methodology and applications", RAS Techniques and Instruments (2024). doi:10.1093/rasti/rzae012
+Georgios Xystouris, Oleg Shebanits, Christopher S Arridge, "A simple spacecraft – vector intersection methodology and applications", RAS Techniques and Instruments (2024). [doi:10.1093/rasti/rzae012](https://doi.org/10.1093/rasti/rzae012)
 
 Or use this BibTeX entry:
 ```
