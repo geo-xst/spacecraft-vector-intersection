@@ -1,4 +1,4 @@
-# Spacecraft-Vector Intersection (SVI) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12802054.svg)](https://doi.org/10.5281/zenodo.12802053)
+# Spacecraft-Vector Intersection (SVI) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12802053.svg)](https://doi.org/10.5281/zenodo.12802053)
 
 This is a package that can take any spacecraft 3D model in .stl or .obj and:
 1) calculate the field-of-view of an instrument
@@ -73,6 +73,10 @@ Or use this BibTeX entry:
 License
 ------------------------------
 This work is licensed under the GNU General Public License v3.0.
+
+Zenodo DOI
+------------------------------
+This work linked to the open repository Zenodo. The given DOI next to the title redirects to the latest version of this package.
 
 Contact
 --------------
