@@ -12,7 +12,7 @@ The folders of the main branch are:
 
 There is the '/Models/Cassini' subfolder with the 3D Cassini model files as were published by the [NASA Visualization Technology Applications and Development (VTAD)](https://solarsystem.nasa.gov/resources/2401/cassini-3d-model/). The user can add additional models in new subfolders.
 
-Currently it works only for MATLAB - we are working on translating it for Python.
+Currently it works only for MATLAB - we are working on translating it to Python.
 
 
 MATLAB version:
@@ -76,4 +76,4 @@ This work is licensed under the GNU General Public License v3.0.
 
 Contact
 --------------
-You can contact me at george.xystouris@gmail.com
+You can contact me at george.xystouris@gmail.com.
